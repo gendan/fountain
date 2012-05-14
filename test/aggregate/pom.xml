@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>nl.fountain.test</groupId>
-	<artifactId>aggregate-test</artifactId>
+	<artifactId>aggregate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
