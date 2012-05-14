@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>aggregate-test</name>
+	<name>aggregate</name>
 	<inceptionYear>2012</inceptionYear>
 	<description>an aggregation of test projects</description>
 
